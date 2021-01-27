@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"type1": "Prsno plivanje",
-		"type2": "Leđno plivanje",
+		"type2": "Ledno plivanje",
 		"type3": "Kraul",
 		"type4": "Delfin",
 		"type5": "Slobodno stil"
@@ -13,22 +13,22 @@
 		"type2": "Sporo hodanje",
 		"type3": "Nordijsko hodanje",
 		"type4": "Hodanje uz stube",
-		"type5": "Hodanje na tryci"
+		"type5": "Hodanje na traci"
 	},
 	{
 		"id": 3,
-		"type1": "Cestovna vožnja do 20km",
-		"type2": "Cestovna vožnja više od 20km",
-		"type3": "Gradska vožnja",
-		"type4": "Rekreacijska vožnja",
-		"type5": "Brdska vožnja"
+		"type1": "Cestovna voznja do 20km",
+		"type2": "Cestovna voznja više od 20km",
+		"type3": "Gradska voznja",
+		"type4": "Rekreacijska voznja",
+		"type5": "Brdska voznja"
 	},
 	{
 		"id": 4,
-		"type1": "Rekreacijsko trčanje",
-		"type2": "Trčanje uz teret",
-		"type3": "Trčanje do 5km",
-		"type4": "Trčanje više od 5km",
-		"type5": "Trčanje na traci"
+		"type1": "Rekreacijsko trcanje",
+		"type2": "Trcanje uz teret",
+		"type3": "Trcanje do 5km",
+		"type4": "Trcanje više od 5km",
+		"type5": "Trcanje na traci"
 	}
 ]

@@ -1,0 +1,34 @@
+"Sport": [
+	{
+		"id": 1,
+		"type1": "Prsno plivanje",
+		"type2": "Leđno plivanje",
+		"type3": "Kraul",
+		"type4": "Delfin",
+		"type5": "Slobodno stil"
+	},
+	{
+		"id": 2,
+		"type1": "Brzo hodanje",
+		"type2": "Sporo hodanje",
+		"type3": "Nordijsko hodanje",
+		"type4": "Hodanje uz stube",
+		"type5": "Hodanje na tryci"
+	},
+	{
+		"id": 3,
+		"type1": "Cestovna vožnja do 20km",
+		"type2": "Cestovna vožnja više od 20km",
+		"type3": "Gradska vožnja",
+		"type4": "Rekreacijska vožnja",
+		"type5": "Brdska vožnja"
+	},
+	{
+		"id": 4,
+		"type1": "Rekreacijsko trčanje",
+		"type2": "Trčanje uz teret",
+		"type3": "Trčanje do 5km",
+		"type4": "Trčanje više od 5km",
+		"type5": "Trčanje na traci"
+	}
+]
